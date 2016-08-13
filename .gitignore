@@ -1,0 +1,5 @@
+*.bak
+*.rpyc
+log.txt
+saves
+errors.txt
